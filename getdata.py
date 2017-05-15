@@ -2,9 +2,9 @@
 from time import strftime, localtime
 import requests
 import json
+from key import api_key
 
 # variables for headers
-api_key = 'apikey wpdt9YYzWmdZjmjiFVuILrvxYkBT6Jwsyg67'
 auth_url = 'https://api.transport.nsw.gov.au/v1/gtfs/realtime/buses'
 
 # variables for GET request
