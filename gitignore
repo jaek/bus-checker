@@ -1,0 +1,16 @@
+# Created by https://www.gitignore.io/api/text
+
+### Text ###
+*.doc
+*.docx
+*.log
+*.msg
+*.pages
+*.rtf
+*.txt
+*.wpd
+*.wps
+*.pdf
+
+# End of https://www.gitignore.io/api/text
+
